@@ -9,7 +9,7 @@ const doctors = [
     {
         name: "Pedro",
         lastname: "Pérez",
-        rank: 'Médico pasante'
+        rank: 'Médico adscrito'
     },
     {
         name: "Angela",
